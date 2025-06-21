@@ -41,7 +41,7 @@ Proyek ini adalah hasil pengerjaan ujian **Backend Programming Test** dari PT. T
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/timedoor-bookstore.git
+git clone https://github.com/MhmmdIchsan/timedoor-bookstore.git
 cd timedoor-bookstore
 ```
 
